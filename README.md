@@ -1,6 +1,5 @@
-Hadoop MapReduce WordCount Homework-4 for CS6240
 
-PAGE RANK 
+**PAGE RANK** 
 This repository contains an efficient implementation of the PageRank algorithm using Apache Spark. PageRank is a fundamental algorithm in web analytics and graph theory, originally developed by Google's co-founders Larry Page and Sergey Brin to rank web pages in their search engine results.
 
 Author
