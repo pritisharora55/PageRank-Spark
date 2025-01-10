@@ -11,6 +11,7 @@ job.name=pr.PageRankMain
 local.master=local[4]
 local.k=100
 local.numOfIterations = 10
+# pass input and output file paths
 local.input=input
 local.output=output
 # Pseudo-Cluster Execution
